@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Frontpage</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="Department">
+        <item>BSIT</item>
+        <item>BSED</item>
+        <item>BSENG</item>
+        <item>BSN</item>
+        <item>BSBA</item>
+    </string-array>
+
+    <string-array name="BSITStaff">
+        <item>Winnelyn Degorio</item>
+        <item>Kenji Mille Grava</item>
+        <item>Antoniette Carlyle Pagalan</item>
+        <item>John Alexis Gacasan</item>
+        <item>Rowena Rocamora</item>
+    </string-array>
+
+    <string-array name="BSEDStaff">
+        <item>Angelou Libato</item>
+        <item>Jan Danielle Villacarlos</item>
+        <item>Crystal Mae Sadili</item>
+        <item>Diana Rovelly Aloba</item>
+        <item>Luties Ann Lodovice</item>
+    </string-array>
+
+    <string-array name="BSENGStaff">
+        <item>Kris Ellah Famador</item>
+        <item>Brian Nabua</item>
+        <item>Frances Nicole Cababan</item>
+        <item>Carl Anthony Santander</item>
+        <item>Erin Velayo</item>
+    </string-array>
+
+    <string-array name="BSNStaff">
+        <item>Rejel Saberon</item>
+        <item>Jeff Louise Leyson</item>
+        <item>Jamaica Seno</item>
+        <item>Ivy Coleen Rosales</item>
+        <item>Carl Howell Bontuyan</item>
+    </string-array>
+
+    <string-array name="BSBAStaff">
+        <item>Jhelina Mae Autida</item>
+        <item>Jobelyn Cogtas</item>
+        <item>Kimbery Declaros</item>
+        <item>Jensen Ann Francisco</item>
+        <item>Leahlyn Bordora</item>
+    </string-array>
+
+</resources>
