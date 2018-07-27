@@ -1,0 +1,69 @@
+10:49:54 AM  [main] 	Initializing Control Panel
+10:49:54 AM  [main] 	Windows Version: Windows 8  64-bit
+10:49:54 AM  [main] 	XAMPP Version: 5.6.12
+10:49:54 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+10:49:54 AM  [main] 	You are not running with administrator rights! This will work for
+10:49:54 AM  [main] 	most application stuff but whenever you do something with services
+10:49:54 AM  [main] 	there will be a security dialogue or things will break! So think 
+10:49:54 AM  [main] 	about running this application with administrator rights!
+10:49:54 AM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:49:54 AM  [main] 	Checking for prerequisites
+10:49:54 AM  [main] 	All prerequisites found
+10:49:54 AM  [main] 	Initializing Modules
+10:49:55 AM  [Apache] 	Problem detected!
+10:49:55 AM  [Apache] 	Port 80 in use by "Unable to open process" with PID 6588!
+10:49:55 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:49:55 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:49:55 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:49:55 AM  [Apache] 	Problem detected!
+10:49:55 AM  [Apache] 	Port 443 in use by "Unable to open process" with PID 6588!
+10:49:55 AM  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:49:55 AM  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:49:55 AM  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:49:55 AM  [main] 	Starting Check-Timer
+10:49:55 AM  [main] 	Control Panel Ready
+10:50:32 AM  [main] 	Deinitializing Modules
+10:50:32 AM  [main] 	Deinitializing Control Panel
+
+12:19:07 PM  [main] 	Initializing Control Panel
+12:19:07 PM  [main] 	Windows Version: Windows 8  64-bit
+12:19:07 PM  [main] 	XAMPP Version: 5.6.12
+12:19:07 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:19:07 PM  [main] 	You are not running with administrator rights! This will work for
+12:19:07 PM  [main] 	most application stuff but whenever you do something with services
+12:19:07 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:19:07 PM  [main] 	about running this application with administrator rights!
+12:19:07 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:19:07 PM  [main] 	Checking for prerequisites
+12:19:07 PM  [main] 	All prerequisites found
+12:19:07 PM  [main] 	Initializing Modules
+12:19:07 PM  [main] 	Starting Check-Timer
+12:19:07 PM  [main] 	Control Panel Ready
+12:19:52 PM  [mysql] 	Attempting to start MySQL app...
+12:19:55 PM  [mysql] 	Attempting to start MySQL app...
+12:19:55 PM  [mysql] 	Status change detected: running
+12:21:28 PM  [Apache] 	Attempting to start Apache app...
+12:21:29 PM  [Apache] 	Status change detected: running
+12:12:33 AM  [main] 	Deinitializing Modules
+12:12:33 AM  [main] 	Deinitializing Control Panel
+
+4:44:39 PM  [main] 	Initializing Control Panel
+4:44:39 PM  [main] 	Windows Version: Windows 8  64-bit
+4:44:39 PM  [main] 	XAMPP Version: 5.6.12
+4:44:39 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+4:44:39 PM  [main] 	You are not running with administrator rights! This will work for
+4:44:39 PM  [main] 	most application stuff but whenever you do something with services
+4:44:39 PM  [main] 	there will be a security dialogue or things will break! So think 
+4:44:39 PM  [main] 	about running this application with administrator rights!
+4:44:39 PM  [main] 	XAMPP Installation Directory: "c:\xampp\"
+4:44:39 PM  [main] 	Checking for prerequisites
+4:44:40 PM  [main] 	All prerequisites found
+4:44:40 PM  [main] 	Initializing Modules
+4:44:40 PM  [Apache] 	XAMPP Apache is already running on port 80
+4:44:40 PM  [Apache] 	XAMPP Apache is already running on port 443
+4:44:40 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+4:44:40 PM  [main] 	Starting Check-Timer
+4:44:40 PM  [main] 	Control Panel Ready
+12:12:33 AM  [main] 	Deinitializing Modules
+12:12:33 AM  [main] 	Deinitializing Control Panel
+
